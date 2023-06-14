@@ -1,70 +1,80 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+`# Wikis Manager
 
-## Available Scripts
+Breve descrição ou visão geral do projeto.
 
-In the project directory, you can run:
+## Pré-requisitos
 
-### `npm start`
+Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Node.js
+- npm (gerenciador de pacotes do Node.js)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Instalação
 
-### `npm test`
+1. Clone o repositório:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```shell
+   git clone https://github.com/jorgeluis-dev/wikismanager.git` 
 
-### `npm run build`
+2.  Navegue até o diretório do projeto:
+    
+    shellCopy code
+    
+    `cd wikismanager` 
+    
+3.  Instale as dependências:
+    
+    shellCopy code
+    
+    `npm install` 
+    
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Como usar
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1.  Inicie o servidor de desenvolvimento:
+    
+    shellCopy code
+    
+    `npm start` 
+    
+2.  Abra o projeto no navegador:
+    
+    shellCopy code
+    
+    `http://localhost:3000` 
+    
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Recursos
 
-### `npm run eject`
+-   [React](https://reactjs.org/) - Biblioteca JavaScript para construção de interfaces de usuário.
+-   [Axios](https://axios-http.com/) - Cliente HTTP baseado em promessas para o navegador e Node.js.
+-   [Styled Components](https://styled-components.com/) - Biblioteca para estilização de componentes com CSS-in-JS.
+-   [Testing Library](https://testing-library.com/) - Conjunto de utilitários para testes de componentes React.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Scripts disponíveis
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+No diretório do projeto, você pode executar os seguintes scripts:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+-   `npm start`: Inicia o servidor de desenvolvimento.
+-   `npm build`: Compila o projeto para produção.
+-   `npm test`: Executa os testes no modo de observação interativo.
+-   `npm run eject`: Remove a dependência do create-react-app e copia os arquivos de configuração para personalização completa.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contribuição
 
-## Learn More
+1.  Faça o fork do projeto ([https://github.com/jorgeluis-dev/wikismanager/fork](https://github.com/jorgeluis-dev/wikismanager/fork))
+2.  Crie uma nova branch com a feature: `git checkout -b minha-feature`
+3.  Faça o commit das suas alterações: `git commit -m 'Adicione uma nova feature'`
+4.  Faça o push para a branch: `git push origin minha-feature`
+5.  Abra um pull request no GitHub
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Licença
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://chat.openai.com/LICENSE) para mais detalhes.
 
-### Code Splitting
+csharpCopy code
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ `Certifique-se de substituir as informações relevantes, como o nome do projeto, a descrição, a URL do repositório, as instruções de instalação, os recursos utilizados, as informações de contribuição e a licença.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Espero que isso seja útil para você!`
